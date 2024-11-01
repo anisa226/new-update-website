@@ -65,7 +65,8 @@
     <section>
         <h2>Profile Photo</h2>
         <!-- Replace "your-photo.jpg" with the path to your image file -->
-        <img src="your-photo.jpg" alt="Anisa Azad Oishy's photo">
+        <img src="![WhatsApp Image 2024-10-24 at 7 25 21 PM]"
+ alt="Anisa Azad Oishy's photo">
 
         <h2>About Me</h2>
         <p>Hello! My name is Anisa Azad Oishy, currently 23 years old and a Computer Science & Engineering student at Daffodil International University. I am passionate about programming, learning new skills, and achieving my goal of becoming a teacher to serve my nation.</p>
@@ -125,7 +126,7 @@
         </ul>
         
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:anisaoishy226@gmail.com">anisa@example.com</a></p>
+        <p>Email: <a href="mailto:anisaoishy226@gmail.com">anisaoishy@gmail.com</a></p>
     </section>
 </body>
 </html>
